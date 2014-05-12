@@ -19,5 +19,5 @@ p {
 p.title {
 	background-color: yellow;
 	padding: 5px;
-	border: 1px solid black;
+	border: 1px dashed red;
 }
